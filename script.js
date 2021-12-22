@@ -8,7 +8,7 @@ let circle=document.querySelector('.hidden-number-wrapper-inner')
 const displayMessage = function (message) {
   document.querySelector('.feedback-label').textContent = message;
 };
-document.querySelector('.score').textContent = score;
+document.querySelector('.score').textContent = 20;
 displayMessage('pick a number between 1 and 20')
 document.querySelector('.play').addEventListener('click', function () {
   const guess = Number(document.querySelector('.guess').value);
