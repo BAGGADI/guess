@@ -4,4 +4,7 @@
  CSS
 
 
-[Guess the number.webm](https://user-images.githubusercontent.com/92365477/217109547-fb8bf876-9d6d-4169-a330-8188567de143.webm)
+[live game](https://guess-g0ame.netlify.app)
+
+
+![image](https://user-images.githubusercontent.com/92365477/217594064-8ecb419a-0500-424a-ae1d-c178ed7c7d36.png)
