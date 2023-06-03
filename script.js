@@ -1,6 +1,6 @@
 'use strict';
 let modal=document.querySelector('.modal')
-let secretNumber = Math.trunc(Math.random() * 20) + 1;
+let secretNumber = Math.trunc(Math.random() * 20) + 1; //radnom secret number
 let score = 20;
 let highscore = 0;
 const gameColor=document.querySelector('.game-wrapper')
